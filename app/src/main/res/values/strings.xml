@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Weather App</string>
+
+    <!--TODO (STEP 3: Add the string values here.)-->
+    <!--START-->
+    <string name="please_wait">Please Wait&#8230;</string>
+    <!--END-->
+</resources>
